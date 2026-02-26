@@ -4,10 +4,10 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Aluno a1 = new Conta();
-        a1.ra = Convert.(Console.ReadLine());
+        Aluno a1 = new Aluno();
+        a1.ra = Console.ReadLine();
         Console.Write("Digite o RA: ");
-        a1.nome = Convert.(Console.ReadLine());
+        a1.nome = Console.ReadLine();
         Console.Write("Digite o nome: ");
         a1.p1 = Convert.ToInt32(Console.ReadLine());
         Console.Write("Digite a nota da P1: ");
@@ -18,11 +18,10 @@ internal class Program
         a1.CalcularMédia();
         a1.MostrarAtributos();
         
-
-        Aluno a2 = new Conta();
-        a2.ra = Convert.(Console.ReadLine());    
+        Aluno a2 = new Aluno();
+        a2.ra = Console.ReadLine();    
         Console.Write("Digite o RA: ");
-        a2.nome = Convert.(Console.ReadLine());
+        a2.nome = Console.ReadLine();
         Console.Write("Digite o nome: ");
         a2.p1 = Convert.ToInt32(Console.ReadLine());
         Console.Write("Digite a nota da P1: ");
