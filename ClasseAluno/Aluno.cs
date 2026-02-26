@@ -28,7 +28,11 @@ namespace ClasseAluno
 
         public void MostrarAtributos()
         {
-            
+            Console.WriteLine("Ra: " + ra + 
+            "\tNome: " + nome + 
+            "\tP1: " + p1 + 
+            "\tP2: " + p2 + 
+            "\tMédia: " + media);
         }
 
     }
