@@ -23,7 +23,7 @@ namespace ClasseAluno
 
         public void CalcularMédia()
         {
-            media = (p1 + p2) / 2 
+            media = (p1 + p2) / 2; 
         }
 
         public void MostrarAtributos()
