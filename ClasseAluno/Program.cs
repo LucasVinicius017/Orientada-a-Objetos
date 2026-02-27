@@ -5,16 +5,15 @@ internal class Program
     private static void Main(string[] args)
     {
         Aluno a1 = new Aluno();
-        a1.ra = Console.ReadLine();
         Console.Write("Digite o RA: ");
-        a1.nome = Console.ReadLine();
+        a1.ra = Console.ReadLine();
         Console.Write("Digite o nome: ");
+        a1.nome = Console.ReadLine();  
+        Console.Write("Digite a nota da P1: ");      
         a1.p1 = Convert.ToInt32(Console.ReadLine());
-        Console.Write("Digite a nota da P1: ");
-        a1.p2 = Convert.ToInt32(Console.ReadLine());
         Console.Write("Digite a nota da P2: ");
+        a1.p2 = Convert.ToInt32(Console.ReadLine());        
         a1.media = Convert.ToInt32(Console.ReadLine());
-        Console.Write("Digite a média: ");
         a1.CalcularMédia();
         a1.MostrarAtributos();
         
