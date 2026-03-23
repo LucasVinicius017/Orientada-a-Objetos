@@ -1,0 +1,14 @@
+D:\Orientada a Objeto\ArrayProduto\bin\Debug\net8.0\ArrayProduto.exe
+D:\Orientada a Objeto\ArrayProduto\bin\Debug\net8.0\ArrayProduto.deps.json
+D:\Orientada a Objeto\ArrayProduto\bin\Debug\net8.0\ArrayProduto.runtimeconfig.json
+D:\Orientada a Objeto\ArrayProduto\bin\Debug\net8.0\ArrayProduto.dll
+D:\Orientada a Objeto\ArrayProduto\bin\Debug\net8.0\ArrayProduto.pdb
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\ArrayProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\ArrayProduto.AssemblyInfoInputs.cache
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\ArrayProduto.AssemblyInfo.cs
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\ArrayProduto.csproj.CoreCompileInputs.cache
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\ArrayProduto.dll
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\refint\ArrayProduto.dll
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\ArrayProduto.pdb
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\ArrayProduto.genruntimeconfig.cache
+D:\Orientada a Objeto\ArrayProduto\obj\Debug\net8.0\ref\ArrayProduto.dll
