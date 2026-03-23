@@ -1,0 +1,14 @@
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.AssemblyInfoInputs.cache
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.AssemblyInfo.cs
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.csproj.CoreCompileInputs.cache
+D:\Orientada a Objeto\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.exe
+D:\Orientada a Objeto\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.deps.json
+D:\Orientada a Objeto\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.runtimeconfig.json
+D:\Orientada a Objeto\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.dll
+D:\Orientada a Objeto\ConstrutorConta\bin\Debug\net8.0\ConstrutorConta.pdb
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.dll
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\refint\ConstrutorConta.dll
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.pdb
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\ConstrutorConta.genruntimeconfig.cache
+D:\Orientada a Objeto\ConstrutorConta\obj\Debug\net8.0\ref\ConstrutorConta.dll
