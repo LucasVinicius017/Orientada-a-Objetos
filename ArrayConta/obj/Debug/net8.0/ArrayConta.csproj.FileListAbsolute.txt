@@ -1,0 +1,14 @@
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\ArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\ArrayConta.AssemblyInfoInputs.cache
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\ArrayConta.AssemblyInfo.cs
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\ArrayConta.csproj.CoreCompileInputs.cache
+D:\Orientada a Objeto\ArrayConta\bin\Debug\net8.0\ArrayConta.exe
+D:\Orientada a Objeto\ArrayConta\bin\Debug\net8.0\ArrayConta.deps.json
+D:\Orientada a Objeto\ArrayConta\bin\Debug\net8.0\ArrayConta.runtimeconfig.json
+D:\Orientada a Objeto\ArrayConta\bin\Debug\net8.0\ArrayConta.dll
+D:\Orientada a Objeto\ArrayConta\bin\Debug\net8.0\ArrayConta.pdb
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\ArrayConta.dll
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\refint\ArrayConta.dll
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\ArrayConta.pdb
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\ArrayConta.genruntimeconfig.cache
+D:\Orientada a Objeto\ArrayConta\obj\Debug\net8.0\ref\ArrayConta.dll

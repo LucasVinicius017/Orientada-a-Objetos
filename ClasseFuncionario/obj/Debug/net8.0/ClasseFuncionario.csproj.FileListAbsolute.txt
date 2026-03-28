@@ -1,0 +1,4 @@
+D:\Orientada a Objeto\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orientada a Objeto\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.AssemblyInfoInputs.cache
+D:\Orientada a Objeto\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.AssemblyInfo.cs
+D:\Orientada a Objeto\ClasseFuncionario\obj\Debug\net8.0\ClasseFuncionario.csproj.CoreCompileInputs.cache
